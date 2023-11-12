@@ -9,5 +9,6 @@ def erLCoder(name, language, age, languages, frameworks, databases):
 
 erLCoder(name, language, age, languages, frameworks, databases)
 ```
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23fcc203)
+
 ![C++](https://img.shields.io/badge/c%2B%2B?style=plastic&logo=c%2B%2B&logoColor=%2300599C)
