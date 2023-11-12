@@ -12,7 +12,7 @@ erLCoder(name, language, age, telegram)
 # 📒 IDE
 ![Static Badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=%23183A61) ![Static Badge](https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=%235C2D91)
 
-# 📃 Programming languages
+# 📃 Programming Languages
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23fcc203) ![Static Badge](https://img.shields.io/badge/C%2B%2B-a31d2f?style=for-the-badge&logo=cplusplus&logoColor=%23ffffff)
 
 # ⚙️ Frameworks
