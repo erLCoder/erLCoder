@@ -4,7 +4,7 @@
 def erLCoder(name, language, age, telegram):
   name = 'Maksim'
   language = 'English, Russian'
-  age = 15
+  age = 16
   telegram = '@erLCoder'
 
 erLCoder(name, language, age, telegram)
