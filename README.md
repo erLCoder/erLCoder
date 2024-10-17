@@ -1,4 +1,4 @@
-# 🪪 About me
+# 👨‍💻 About me
 
 ```python
 def erLCoder(name, language, age, telegram):
