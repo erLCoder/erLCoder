@@ -1,13 +1,16 @@
 # 👨‍💻 About me
 
 ```python
-def erLCoder(name, language, age, telegram):
-  name = 'Maksim'
-  language = 'English, Russian'
-  age = 18
-  telegram = '@erLCoder'
+def get_profile():
+    return {
+        "name": "Maksim",
+        "languages": ["Russian", "English"],
+        "age": 18,
+        "telegram": "@erLCoder",
+    }
 
-erLCoder(name, language, age, telegram)
+
+print(get_profile())
 ```
 # 📒 IDE
 ![Static Badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=%23183A61) ![Static Badge](https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=%235C2D91)
